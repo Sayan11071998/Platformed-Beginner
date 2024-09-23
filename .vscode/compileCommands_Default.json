@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\PlatformedBeginner\\Source\\PlatformedBeginner\\Hook.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\PlatformedBeginner\\.vscode\\compileCommands_Default\\PlatformedBeginner.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\PlatformedBeginner\\Source\\PlatformedBeginner\\Hook.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\PlatformedBeginner\\.vscode\\compileCommands_Default\\PlatformedBeginner.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\PlatformedBeginner\\Source\\PlatformedBeginner\\PlatformedBeginner.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\PlatformedBeginner\\.vscode\\compileCommands_Default\\PlatformedBeginner.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\PlatformedBeginner\\Source\\PlatformedBeginner\\PlatformedBeginner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\PlatformedBeginner\\.vscode\\compileCommands_Default\\PlatformedBeginner.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\PlatformedBeginner\\Source\\PlatformedBeginner\\PlatformedBeginner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\PlatformedBeginner\\.vscode\\compileCommands_Default\\PlatformedBeginner.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
