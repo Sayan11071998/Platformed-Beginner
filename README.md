@@ -1,4 +1,4 @@
-# ***🚀 FirePlatform 🔥🎮***
+# ***🚀 Fire Platform 🔥🎮***
 
 I’m excited to finally share the gameplay of my latest project, FirePlatform! Picture this: navigating through blazing fire obstacles, collecting shiny objects, and solving puzzles—all while trying not to get burned (literally). This game puts your reflexes to the test while challenging your brain with a puzzle or two along the way.
 
